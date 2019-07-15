@@ -12,7 +12,7 @@
 
 ログイン画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Login.png" width="50%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Login.png" width="100%">
 
 * Usernameにあなたの使用する名前を、Passwordに使用できるパスワードを入力してください。
 
@@ -24,7 +24,7 @@
 
 部屋の画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room.png" width="50%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room.png" width="100%">
 
   これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
 
@@ -50,7 +50,7 @@
 
 鍵の持ち主の画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Key_Owner.jpg" width="50%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Key_Owner.jpg" width="100%">
 
   これは鍵の持ち主の画面です。左側のKey Ownerというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
 
@@ -87,7 +87,7 @@
 
 ログの画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Log.jpg" width="50%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Log.jpg" width="100%">
 
   これはログの画面です。左側のLogというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
 
