@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=1000;">
+    <meta name="viewport" content="width=1000">
     <title>Unity WebGL Player | Key manager</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
@@ -12,6 +12,16 @@
     <script src="Build/UnityLoader.js"></script>
     <script>
         UnityLoader.SystemInfo.mobile = false;
+        window.addEventListener("orientationchange", function() {
+            var metalist = document.getElementsByTagName('meta');
+            for (var i = 0; i < metalist.length; i++) {
+                var name = metalist[i].getAttribute('name');
+                if (name && name.toLowerCase() === 'viewport') {
+                    metalist[i].setAttribute('content', 'width=1000,maximum-scale=' + (screen.width / 1000));
+                    break;
+                }
+            }
+        })
         var unityInstance = UnityLoader.instantiate("unityContainer", "Build/build.json", {
             onProgress: UnityProgress
         });
