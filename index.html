@@ -17,7 +17,7 @@
             for (var i = 0; i < metalist.length; i++) {
                 var name = metalist[i].getAttribute('name');
                 if (name && name.toLowerCase() === 'viewport') {
-                    metalist[i].setAttribute('content', 'width=1000,minimum-scale=' + (screen.width / 1000));
+                    metalist[i].setAttribute('content', 'width=1000,initial-scale=' + (screen.width / 1000));
                     break;
                 }
             }
