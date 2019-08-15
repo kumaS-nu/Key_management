@@ -26,7 +26,7 @@
 
 部屋の画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room.png" width="100%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room.jpg" width="100%">
 
   これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
 
@@ -144,7 +144,7 @@
 
 部屋の画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room_v.png" width="100%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room_v.jpg" width="100%">
 
   これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
 
