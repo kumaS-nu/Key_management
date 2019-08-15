@@ -6,7 +6,7 @@
 
 [こちら](https://kumachan0210.github.io/Key_management)からアクセスし、利用できます。
 
-外部の人向けの説明は[ここ](##外部の方へ)からです。
+外部の人向けの説明は[ここ](https://github.com/kumachan0210/Key_management#%E5%A4%96%E9%83%A8%E3%81%AE%E6%96%B9%E3%81%B8)からです。
 
 ## 使い方
 
@@ -111,7 +111,7 @@
 
 フィルターの画面
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Filter.jpg" width="100%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Filter.png" width="100%">
 
   これはフィルターの画面です。ログのところのFilterというボタンを押すとこの画面になります。  ボタンが黄色の時がOn、白色の時がOffです。
 
