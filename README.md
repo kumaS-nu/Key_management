@@ -28,7 +28,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room.jpg" width="100%">
 
-  これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -54,7 +54,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Key_Owner1.jpg" width="100%">
 
-  これは鍵の持ち主の画面です。左側のKey Ownerというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは鍵の持ち主の画面です。左側のKey Ownerというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -72,7 +72,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Key_Owner1.jpg" width="100%">
   
-  上のところからのみ飛んでこれます。
+  上のところからのみ飛んでこれます。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -95,7 +95,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Log.jpg" width="100%">
 
-  これはログの画面です。左側のLogというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これはログの画面です。左側のLogというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -146,7 +146,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Room_v.jpg" width="100%">
 
-  これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは部屋の画面です。左側のRoomというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -172,7 +172,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Key_Owner_v.jpg" width="100%">
 
-  これは鍵の持ち主の画面です。左側のKey Ownerというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは鍵の持ち主の画面です。左側のKey Ownerというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -187,7 +187,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Log_v.jpg" width="100%">
 
-  これはログの画面です。左側のLogというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これはログの画面です。左側のLogというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -202,7 +202,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Pay.jpg" width="100%">
 
-  これは支払い記録の画面(1)です。左側のPayというところを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは支払い記録の画面(1)です。左側のPayというところを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
@@ -223,7 +223,7 @@
 
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Pay2.jpg" width="100%">
 
-  これは支払い記録の画面(2)です。先ほどの画面のOKを押すとこの画面に移ります。右上のアイコンを押すと情報を更新します。
+  これは支払い記録の画面(2)です。先ほどの画面のOKを押すとこの画面に移ります。  右上のアイコンを押すと情報を更新します。
 
 #### 各部説明
 
