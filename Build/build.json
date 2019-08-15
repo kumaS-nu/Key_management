@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Key manager",
-"productVersion": "0.4.1",
+"productVersion": "0.7.2",
 "dataUrl": "build.data.unityweb",
 "wasmCodeUrl": "build.wasm.code.unityweb",
 "wasmFrameworkUrl": "build.wasm.framework.unityweb",
