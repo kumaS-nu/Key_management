@@ -216,7 +216,7 @@
 
 支払い記録の画面(1)
 
-<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Pay.jpg" width="100%">
+<img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Pay1.jpg" width="100%">
 
   これは支払い記録の画面(1)です。左側のPayというところを押すとこの画面に移ります。
   
