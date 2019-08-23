@@ -2,7 +2,7 @@
 
 ## 概要
 
-これはディスボードの部室管理アプリです。現在v0.7.3(β版)
+これはディスボードの部室管理アプリです。現在v0.7.4(β版)
 
 [こちら](https://kumachan0210.github.io/Key_management)からアクセスし、利用できます。
 
@@ -17,6 +17,8 @@
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Login.png" width="100%">
 
 * Usernameにあなたの使用する名前を、Passwordに使用できるパスワードを入力してください。
+
+* 初回ログイン時に警告が出ますが無視しても問題ありません。
 
 * このアプリではUsernameとログインしたグループからアカウントを特定します。なので、Usernameが異なると別アカウントとして処理されるのでご注意ください。  また、Usernameを間違えてログインしてしまった時、 **そのUsernameも登録されてしまうので僕に報告してください** 。削除します。
 
@@ -145,6 +147,8 @@
 <img src="https://github.com/kumachan0210/Key_management/blob/master/picture/Login.png" width="100%">
 
 * Usernameにあなたの使用する名前を、Passwordに使用できるパスワードを入力してください。
+
+* 初回ログイン時に警告が出ますが無視しても問題ありません。
 
 * このアプリではUsernameとログインしたグループからアカウントを特定します。なので、Usernameが異なると別アカウントとして処理されるのでご注意ください。
 
