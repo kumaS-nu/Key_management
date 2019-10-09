@@ -51,6 +51,8 @@ self.addEventListener('fetch', function(event) {
 
     //回線が使えるときの処理
     if (online) {
+        if (event.request.cache === 'only-if-cached' && event.request.mode !== 'same-origin')
+            return;
         event.respondWith(
             caches.match(event.request)
             .then(
