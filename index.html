@@ -38,17 +38,6 @@
             <div class="title">Key manager</div>
         </div>
     </div>
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('https://kumachan0210.github.io/Key_management/sw.js').then(function(registration) {
-                    console.log('serviceWorker registed.', registration.scope);
-                }, function(err) {
-                    console.log('serviceWorker error.', err);
-                });
-            });
-        }
-    </script>
 </body>
 
 </html>
