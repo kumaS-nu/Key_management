@@ -788,7 +788,7 @@ var UnityLoader = UnityLoader || {
                     t = e.buffer instanceof SharedArrayBuffer; return delete e, t }()
         }
     }(),
-    compatibilityCheck: function(e, t, r) { t() },
+    compatibilityCheck: function(e, t, r) { t(); },
     buildCompatibilityCheck: function(e, t, r) {
         function n() { if ("undefined" == typeof e.graphicsAPI) return !0; for (var t = 0; t < e.graphicsAPI.length; t++) { var r = e.graphicsAPI[t]; if ("WebGL 2.0" == r && 2 == UnityLoader.SystemInfo.hasWebGL) return !0; if ("WebGL 1.0" == r && UnityLoader.SystemInfo.hasWebGL >= 1) return !0;
                 e.print("Warning: Unsupported graphics API " + r) } return !1 }
