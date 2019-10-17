@@ -1,3 +1,4 @@
+var version = '2.4.1';
 var CACHE_NAME = 'NDBSL-sw-caches';
 var urlsToCache = [
     'https://kumachan0210.github.io/Key_management/index.html',

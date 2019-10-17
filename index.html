@@ -7,9 +7,7 @@
     <meta name="viewport" content="width=1000">
     <title>Unity WebGL Player | Key manager</title>
     <link rel="manifest" href="manifest.json">
-    <script async src="https://cdn.jsdelivr.net/npm/pwacompat@2.0.9/pwacompat.min.js"
-    integrity="sha384-VcI6S+HIsE80FVM1jgbd6WDFhzKYA0PecD/LcIyMQpT4fMJdijBh0I7Iblaacawc"
-    crossorigin="anonymous"></script>
+    <script async src="https://cdn.jsdelivr.net/npm/pwacompat@2.0.9/pwacompat.min.js" integrity="sha384-VcI6S+HIsE80FVM1jgbd6WDFhzKYA0PecD/LcIyMQpT4fMJdijBh0I7Iblaacawc" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="picture/key48.png">
     <link rel="stylesheet" href="TemplateData/style.css">
     <script src="TemplateData/UnityProgress.js"></script>
@@ -44,6 +42,10 @@
             window.addEventListener('load', function() {
                 navigator.serviceWorker.register('https://kumachan0210.github.io/Key_management/sw.js').then(function(registration) {
                     console.log('serviceWorker registed.', registration.scope);
+                    registration.onupdatefound = function() {
+                        registration.update();
+                        console.log('serviceWorker update.');
+                    }
                 }, function(err) {
                     console.log('serviceWorker error.', err);
                 });
